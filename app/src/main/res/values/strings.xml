@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="hintNombre">Nombre Completo</string>
+    <string name="hintFecha">Fecha de Nacimiento</string>
+    <string name="hintTelefono">Telefono</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintDescripcion">Descripción de contacto</string>
+    <string name="txtBtnSig">Siguiente</string>
+    <string name="txtConfirmar">Confirmar Datos</string>
+    <string name="txtTel">Tel: </string>
+    <string name="txtEmail">E-mail: </string>
+    <string name="txtFechaNac">Fecha de Nacimiento: </string>
+    <string name="txtDescripcion">Descripción: </string>
+    <string name="txtBtnEditar">Editar Datos</string>
+    <string name="txtNombreC">Miguel Alejandro Rojas Hernandez</string>
+
+
+
+</resources>

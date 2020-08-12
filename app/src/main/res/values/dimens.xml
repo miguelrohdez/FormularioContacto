@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txTitulo">35dp</dimen>
+    <dimen name="txNormal">15dp</dimen>
+    <dimen name="txSubtitulo">15dp</dimen>
+    <dimen name="txBtn">16dp</dimen>
+    <dimen name="mgnBotton">25dp</dimen>
+    <dimen name="mgnBottonLow">12dp</dimen>
+    <dimen name="mgnTop">25dp</dimen>
+    <dimen name="mgnBottonLand">10dp</dimen>
+    <dimen name="mgnFecha">35dp</dimen>
+    <dimen name="mgnIzqDatos">8dp</dimen>
+    <dimen name="mgnIzq">15dp</dimen>
+
+
+
+</resources>
